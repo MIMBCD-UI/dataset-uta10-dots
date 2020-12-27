@@ -1,0 +1,23 @@
+ID;Feature ID;DOT ID;DOTS - I understand what the system is thinking.;DOTS - The system seems capable;DOTS - The system seems benevolent.;DOT-Mean
+3;Option 1;3Option 1;10;9;10;9,666666667
+36;Option 1;36Option 1;9;9;9;9
+2;Option 1;2Option 1;9;9;10;9,333333333
+11;Option 1;11Option 1;9;9;9;9
+15;Option 1;15Option 1;8;10;10;9,333333333
+5;Option 1;5Option 1;9;9;7;8,333333333
+8;Option 1;8Option 1;2;4;10;5,333333333
+37;Option 1;37Option 1;8;8;8;8
+33;Option 1;33Option 1;10;10;10;10
+6;Option 1;6Option 1;8;8;8;8
+44;Option 1;44Option 1;8;9;4;7
+8;Option 2;8Option 2;8;5;8;7
+37;Option 2;37Option 2;8;8;8;8
+33;Option 2;33Option 2;10;10;10;10
+6;Option 2;6Option 2;8;8;7;7,666666667
+44;Option 2;44Option 2;9;9;7;8,333333333
+3;Option 2;3Option 2;10;10;9;9,666666667
+36;Option 2;36Option 2;9;8;3;6,666666667
+2;Option 2;2Option 2;9;9;9;9
+11;Option 2;11Option 2;9;9;9;9
+15;Option 2;15Option 2;10;10;10;10
+5;Option 2;5Option 2;8;9;8;8,333333333
