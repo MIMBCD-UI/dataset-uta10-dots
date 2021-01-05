@@ -1,6 +1,6 @@
-<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/repo-template-datasets/web/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta10-dots/web/index.html'" />
 
-# Datasets Repository Template
+# UTA10: Dimensions Of Trust Scale (DOTS) Dataset
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
@@ -110,21 +110,25 @@ The current information will summarize important items of this repository. In th
 
 The following list, represents the set of related repositories for the presented one:
 
-- [`dataset-uta4-sus`](https://github.com/MIMBCD-UI/dataset-uta4-sus)
+- [`dataset-uta10-sus`](https://github.com/MIMBCD-UI/dataset-uta10-sus)
 
-- [`dataset-uta4-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx)
+- [`dataset-uta10-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta10-nasa-tlx)
 
-- [`dataset-uta4-time`](https://github.com/MIMBCD-UI/dataset-uta4-time)
+- [`dataset-uta10-time`](https://github.com/MIMBCD-UI/dataset-uta10-time)
 
-- [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates)
+- [`dataset-uta10-rates`](https://github.com/MIMBCD-UI/dataset-uta10-rates)
 
-- [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
+- [`dataset-uta10-annotations`](https://github.com/MIMBCD-UI/dataset-uta10-annotations)
 
-- [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
+- [`dataset-uta10-dicom`](https://github.com/MIMBCD-UI/dataset-uta10-dicom)
 
-- [`dataset-uta7-time`](https://github.com/MIMBCD-UI/dataset-uta7-time)
+- [`dataset-uta10-messages`](https://github.com/MIMBCD-UI/dataset-uta10-messages)
 
-- [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates)
+- [`dataset-uta10-classifications`](https://github.com/MIMBCD-UI/dataset-uta10-classifications)
+
+- [`dataset-uta10-ad`](https://github.com/MIMBCD-UI/dataset-uta10-ad)
+
+- [`dataset-uta10-hypotheses-questionnaire`](https://github.com/MIMBCD-UI/dataset-uta10-hypotheses-questionnaire)
 
 ### Dataset Resources
 
